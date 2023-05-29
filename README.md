@@ -1,2 +1,3 @@
-# DesignPattern-DrinkShopSimulator
-山东科技大学软件设计与体系结构综合实践
+# Beverage Store Simulator
+
+A software system that integrates multiple design patterns
